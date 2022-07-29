@@ -1,6 +1,6 @@
  - 👋 Hi, I’m JOHN DANIEL VILLAR
  - 👀 I’m interested in C#
- - 🌱 I’m currently learning and practicing Angular
+ - 🌱 I’m currently learning and practicing Angular, ASP.NET(VB)
  - 📫 You can reach mo through this email: johndanielvillar123@gmail.com
 
 <!---
